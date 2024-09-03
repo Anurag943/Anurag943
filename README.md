@@ -1,14 +1,24 @@
-- 👋 Hi, I’m @Anurag943
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋, Hey I am Anurag
+#### I am Machine Learning Enthusiast
+![I am Machine Learning Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!---
-Anurag943/Anurag943 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag943)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Python/ TensorFlow/Scikit Learn/ C/ C++/ PyTorch
+
+- 🔭 I’m currently working on this page. 
+- 😄 Pronouns: he\him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anurag943)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/anuragai/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anurag943)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag943)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag943&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/anurag943)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=anurag943)  
+
