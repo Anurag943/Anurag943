@@ -1,7 +1,6 @@
 ### Hi there 👋, Hey I am Anurag
 #### I am passionate AI/ML Engineer
-[//]: # (
-![I am Machine Learning Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png))
+
 
 I'm a final year B.Tech student in Artificial Intelligence and Machine Learning.
 
