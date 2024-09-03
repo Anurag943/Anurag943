@@ -1,4 +1,4 @@
-### Hi there 👋, Hey I am Anurag
+### 👋 Hey I am Anurag
 #### I am passionate AI/ML Engineer
 
 
