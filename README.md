@@ -19,7 +19,6 @@
  
  🚀 **My goal** is to continue learning and sharing my progress with the community.
 
- ⚡ Fun fact: **Game of Thrones Night's Watch cloaks were made from Ikea rugs**.
  
  🌐 **I believe in learning in public**—sharing my journey, struggles, and improvements so others can learn along with me!
 
